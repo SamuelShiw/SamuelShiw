@@ -1,20 +1,18 @@
+<p align="center"><img src="./assets/system-header.svg" width="100%" alt="J. Samuel — Software Engineering & Product Development"/></p>
+
 <div align="center">
-
-# J. SAMUEL
-
-### Software Engineering & Product Development
 
 **I design and build software products around real-world problems.**
 
-Based in Peru · Building across product engineering, full stack, software architecture, data & AI
+Based in Peru · Product Engineering · Full Stack · Software Architecture · Data & AI
 
-[Portfolio](https://samuelshiw.github.io) · [LinkedIn](https://www.linkedin.com/in/j-samuell/) · [Email](mailto:sumailqm10@gmail.com) · [WhatsApp](https://wa.me/51901036216)
+[**LIVE PORTFOLIO ↗**](https://j-samuel-portfolio-93bhouqpa-xutiann.vercel.app) · [**PORTFOLIO SOURCE**](https://github.com/SamuelShiw/MiWebPersonal) · [LinkedIn](https://www.linkedin.com/in/j-samuell/) · [Email](mailto:sumailqm10@gmail.com) · [WhatsApp](https://wa.me/51901036216)
 
 </div>
 
 ---
 
-### 01 / CURRENTLY BUILDING
+### 01 / SELECTED SYSTEMS
 
 <table>
 <tr>
@@ -49,7 +47,7 @@ Excel → Processing → Indicators → Information → Decision
 
 ---
 
-### 02 / HOW I THINK
+### 02 / SYSTEM LOGIC
 
 ```text
 REAL PROBLEM
@@ -69,7 +67,7 @@ I care about understanding the problem before choosing the technology. My work i
 
 ---
 
-### 03 / FROM FIELD TO SOFTWARE
+### 03 / FIELD → SOFTWARE
 
 Before focusing on software development, I worked in mining operations as a drilling assistant.
 
