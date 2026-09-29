@@ -1,0 +1,22 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .ink{fill:#c9d1d9}.muted{fill:#7d8590}.line{stroke:#30363d;stroke-width:1}.pulse{fill:#c9d1d9;animation:p 2.8s ease-in-out infinite}.dash{stroke:#7d8590;stroke-width:1;stroke-dasharray:8 12;animation:d 10s linear infinite}
+  @keyframes p{0%,100%{opacity:.22}50%{opacity:1}} @keyframes d{to{stroke-dashoffset:-200}}
+  @media(prefers-reduced-motion:reduce){.pulse,.dash{animation:none}}
+</style>
+<rect width="1200" height="360" rx="18" fill="#0d1117"/>
+<path class="line" d="M48 64H1152M48 296H1152M338 40V320M864 40V320"/>
+<path class="dash" d="M392 179H808"/>
+<circle cx="392" cy="179" r="5" class="pulse"/><circle cx="808" cy="179" r="5" class="pulse" style="animation-delay:1.4s"/>
+<circle cx="600" cy="179" r="3" fill="#7d8590"/>
+<text x="48" y="52" class="muted" font-family="monospace" font-size="13">J.S / SYSTEM 2026</text>
+<text x="1152" y="52" class="muted" text-anchor="end" font-family="monospace" font-size="13">PERU / SOFTWARE</text>
+<text x="48" y="118" class="ink" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="66" letter-spacing="-3">J. SAMUEL</text>
+<text x="48" y="162" class="muted" font-family="monospace" font-size="16">SOFTWARE ENGINEERING &amp; PRODUCT DEVELOPMENT</text>
+<text x="392" y="164" class="muted" font-family="monospace" font-size="11">PROBLEM</text>
+<text x="564" y="164" class="muted" font-family="monospace" font-size="11">SYSTEM</text>
+<text x="760" y="164" class="muted" font-family="monospace" font-size="11">PRODUCT</text>
+<text x="48" y="257" class="ink" font-family="Arial,Helvetica,sans-serif" font-size="24">BUILDING SOFTWARE AROUND REAL-WORLD PROBLEMS.</text>
+<text x="48" y="328" class="muted" font-family="monospace" font-size="12">BRACKET / MINING OPERATIONS INTELLIGENCE / DATA &amp; AI</text>
+<text x="1152" y="328" class="ink" text-anchor="end" font-family="monospace" font-size="12">JS.</text>
+</svg>
