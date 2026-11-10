@@ -8,7 +8,7 @@ Diseño soluciones. Construyo productos. Comparto el proceso.
 
 Based in Peru · Product Engineering · Full Stack · Software Architecture · Data & AI
 
-[**LIVE PORTFOLIO ↗**](https://jmael.me) · [**PORTFOLIO SOURCE**](https://github.com/SamuelShiw/MiWebPersonal) · [LinkedIn](https://www.linkedin.com/in/j-samuell/) · [Email](mailto:sumailqm10@gmail.com) · [WhatsApp](https://wa.me/51901036216)
+[**LIVE PORTFOLIO ↗**](https://jmael.me) · [**PORTFOLIO SOURCE**](https://github.com/SamuelShiw/SamuelShiw.github.io) · [LinkedIn](https://www.linkedin.com/in/j-samuell/) · [Email](mailto:sumailqm10@gmail.com) · [WhatsApp](https://wa.me/51901036216)
 
 </div>
 
